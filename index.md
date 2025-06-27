@@ -1,7 +1,7 @@
 # ORGANOLOGÍA Y ACÚSTICA
 
 |||[**Invitados**](pages/videos.md)|
-<img src="img/Distribucion_delatuirasporsexos.png" alt="drawing" width="1000">
+<img src="img/portada.jpg" alt="drawing" width="1000">
 
 
 
@@ -13,11 +13,6 @@ En esta página se puede encontrar todos los recursos audiovisuales y de código
 ## Temario
 
 ### Unidad 1
-
-1. [**Preludio(Alienación)**](pages/preludio.md)
-3. [**non-Human**](pages/non-Human.md)
-4. [**LCSE**](pages/LCSE.md)
-5. [**Intertwined**](pages/intertwined.md)
 
 1. [CONCEPTO DE ACÚSTICA EN FÍSICA Y ACÚSTICA MUSICAL Y RESEÑA HISTÓRICA.](pages/acustica.md) 
 2. [¿QUÉ ES EL SONIDO? CONCEPTOS DE FRECUENCIA, AMPLITUD Y ENVOLVENTE.](pages/sonido.md) 

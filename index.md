@@ -1,6 +1,6 @@
 # ORGANOLOGÍA Y ACÚSTICA
 
-|||[Invitados](pages/videos.md)|
+|||[**Invitados**](pages/videos.md)|
 <img src="img/Distribucion_delatuirasporsexos.png" alt="drawing" width="1000">
 
 

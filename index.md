@@ -13,7 +13,6 @@
 Este sitio reúne los contenidos del curso "Organología y Acústica Musical", orientado a estudiantes de nivel universitario interesados en el estudio de los instrumentos musicales desde una perspectiva tanto física como histórica y cultural. La asignatura combina elementos de acústica física, psicoacústica y musicología, permitiendo comprender cómo y por qué los instrumentos suenan como lo hacen. Este curso es impartido como parte del programa de estudios de la Licenciatura en Música  de la Universidad Autónoma de Tamaulipas, y está diseñado para complementar tanto la formación teórica como la práctica musical.
 
 
-
 ## Temario
 
 ### Unidad 1

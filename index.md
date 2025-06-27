@@ -1,6 +1,10 @@
 # ORGANOLOGÍA Y ACÚSTICA
 
-|||[**Invitados**](pages/videos.md)|
+
+| [Homepage](https://mezaga.github.io/acusticaUAT/) | [Course content](https://dl4mir.github.io/#Temario) |
+
+| Unidad 1 | Unidad 2 | Unidad 3 | [**Invitados**](pages/videos.md)| Universidad | Otros |
+
 <img src="img/portada.jpg" alt="drawing" width="1000">
 
 

@@ -1,3 +1,7 @@
+
+<!-- [Spanish](https://dl4mir-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
+
+
 # ORGANOLOGÍA Y ACÚSTICA
 
 | [Home](https://mezaga.github.io/acusticaUAT/) | [Unidad 1](https://mezaga.github.io/acusticaUAT/###Unidad 1) | Unidad 2 | Unidad 3 | [**Invitados**](pages/videos.md)| Universidad | Otros |
@@ -8,7 +12,6 @@
 
 Este sitio reúne los contenidos del curso "Organología y Acústica Musical", orientado a estudiantes de nivel universitario interesados en el estudio de los instrumentos musicales desde una perspectiva tanto física como histórica y cultural. La asignatura combina elementos de acústica física, psicoacústica y musicología, permitiendo comprender cómo y por qué los instrumentos suenan como lo hacen. Este curso es impartido como parte del programa de estudios de la Licenciatura en Música  de la Universidad Autónoma de Tamaulipas, y está diseñado para complementar tanto la formación teórica como la práctica musical.
 
-# [**Herramientas de partida**](pages/herramientas.md)
 
 
 ## Temario

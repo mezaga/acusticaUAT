@@ -1,5 +1,5 @@
 # ORGANOLOGÍA Y ACÚSTICA
-<img src="/img/Distribucion_delatuirasporsexos.png" alt="drawing" width="1000">
+<img src="../img/Distribucion_delatuirasporsexos.png" alt="drawing" width="1000">
 
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
 

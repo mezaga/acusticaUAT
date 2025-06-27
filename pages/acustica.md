@@ -61,3 +61,11 @@ Psicoacústica musical (cómo se percibe el sonido musical)
 - Aplicación de herramientas digitales: análisis espectral, síntesis sonora, modelado físico.
 - Integración con la computación musical, el machine learning y la realidad aumentada.
 - Nuevas investigaciones en acústica espacial, inmersiva y ambiental.
+
+
+### PREGUNTAS PARA EL FORO:
+
+1. ¿De qué manera crees que el conocimiento físico del sonido (como la frecuencia, la resonancia o la propagación) puede influir en la forma en que un compositor o intérprete toma decisiones musicales?
+Esta pregunta invita a pensar cómo la ciencia puede enriquecer la práctica artística, desde la elección de instrumentos hasta el diseño de espacios o técnicas de interpretación.
+
+2. ¿Por qué crees que ha sido importante, a lo largo de la historia, estudiar el sonido no solo desde una perspectiva física, sino también desde su percepción y su uso artístico?
